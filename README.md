@@ -27,3 +27,7 @@ Output of the script:
 To run the code - following commands should be run:
 make Fit\_sig
 ./fit\_sig  samp.txt par.txt
+
+extractPetitions.py - is a script for the data collection pipeline. Good luck trying to understand it. Inside there are some comments adn command lines on how to run it.
+
+twitter.py - is a script to obtain all the tweets referencing petitions in online fashion.
